@@ -1,5 +1,5 @@
 # Testing in Go
-Basic methods of testing in Go, including unit, taable, and benchmart tests.
+Basic methods of testing in Go, including unit, table, and benchmart tests.
 
 ## Prerequisites
 * [Go - v1.16](https://golang.org/doc/install)
@@ -7,15 +7,15 @@ Basic methods of testing in Go, including unit, taable, and benchmart tests.
 
 ## Run Project
 
-To run this simple project run in terminal:
+To run this simple project:
 
-`go run main.go`
+`$ go run main.go`
 
 ## Run Tests
-To run the test cases run in terminal:
+To run the test cases:
 
-`go test`
+`$ go test`
 
-To see details of the tests run:
+To see details of the tests:
 
-`go test -v`
+`$ go test -v`
